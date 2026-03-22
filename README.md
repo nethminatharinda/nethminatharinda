@@ -13,9 +13,9 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=00d9ff&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=nethminathainda&label=Profile+Views&color=00d9ff&style=for-the-badge" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=00d9ff&labelColor=0d1117" />
+<img src="https://img.shields.io/github/followers/nethminatharinda?label=Followers&style=for-the-badge&color=00d9ff&labelColor=0d1117" />
 
 </div>
 
