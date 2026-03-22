@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-* 🔭 Currently working on: **NETHX / Moon Coder / Netch**
+* 🔭 Currently working on: **NETHX / Moon Coder**
 * 🌱 Learning: **Full-stack development & AI tools**
 * 💬 Ask me about: **Web Dev, Discord Bots, FiveM**
 * ⚡ Fun fact: **I build cool stuff at midnight 😎**
